@@ -9,7 +9,11 @@ This guide explains how to build a lightweight, custom command-line tool to swit
 1. **Rust**: Install from [rustup.rs](https://rustup.rs/) (default installation is fine).  
 2. **PowerToys**: Install from the [Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) or GitHub.
 
-## **Part 1: Build**
+## **Part 1: Dowload or Build**
+
+### **Download**
+You can download the latest binary from [here](https://github.com/drlipton/desktop-switcher/releases/download/0.1.0/desktop_switcher.exe)
+If using downloaded binary, please jump ahead to part 2.
 
 ### **Compile**
 
