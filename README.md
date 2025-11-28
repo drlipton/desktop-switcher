@@ -12,7 +12,7 @@ This guide explains how to build a lightweight, custom command-line tool to swit
 ## **Part 1: Dowload or Build**
 
 ### **Download**
-You can download the latest binary from [here](https://github.com/drlipton/desktop-switcher/releases/download/0.1.0/desktop_switcher.exe)
+You can download the latest binary from [here](https://github.com/drlipton/desktop-switcher/releases/download/0.1.0/desktop_switcher.exe)  
 If using downloaded binary, please jump ahead to part 2.
 
 ### **Compile**
